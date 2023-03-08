@@ -6,7 +6,7 @@ Each player alternately marks their space with an O or an X, and whichever playe
 
 This program also uses the Python random module to select a random player to start the game. It also uses object-oriented programming to create a new class called TicTacToe.
 
-Need to work on reverse diagonal win and the input of  values beyon the range 1 - 3... integer -1 overrides some answers in the mapping.
+Need to make changes that work on reverse diagonal win and the input of  values beyon the range 1 - 3... integer -1 overrides some answers in the mapping.
 
 ## Run Program
 ```bash
